@@ -10,3 +10,5 @@
 
 ### Watch 🐍 eating all my contributions
 <img src="https://github.com/jenniaylis/jenniaylis/blob/output/github-contribution-grid-snake.gif" width="800"/>
+
+![](https://komarev.com/ghpvc/?username=jenniaylis&style=flat&color=blueviolet&label=MY+PROFILE+VIEWS)
