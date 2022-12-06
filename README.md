@@ -1,6 +1,6 @@
 # Hi there, I'm Jenni 👋
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=jenniaylis&repo=jenniaylis&countColor=%237B1E7A&labelcolor=white)
+![](https://api.visitorbadge.io/api/VisitorHit?user=jenniaylis&repo=jenniaylis&countColor=#e6e6fa&labelColor=white)
 
 
 <a href="https://github.com/jenniaylis">
