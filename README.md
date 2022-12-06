@@ -1,6 +1,8 @@
 # Hi there, I'm Jenni 👋
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=jenniaylis&repo=jenniaylis&countColor=%237B1E7A)
+
+
 <a href="https://github.com/jenniaylis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenniaylis&layout=compact&theme=buefy" height="160" />
 </a>
