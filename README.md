@@ -9,6 +9,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=jenniaylis&show_icons=true&theme=buefy&count_private=true" height="160" />
 </a>
 
-### Watch 🐍 eating all my contributions
+<!-- ### Watch 🐍 eating all my contributions
 <img src="https://github.com/jenniaylis/jenniaylis/blob/output/github-contribution-grid-snake.gif" width="800"/>
-
+-->
