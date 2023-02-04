@@ -1,14 +1,14 @@
 # Hello world, I'm Jenni 👋
 
 <a href="https://github.com/jenniaylis">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jenniaylis&layout=compact&theme=buefy" height="160" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jenjei&layout=compact&theme=buefy" height="160" />
 </a>
 <a href="https://github.com/jenniaylis">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=jenniaylis&show_icons=true&theme=buefy&count_private=true" height="160" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=jenjei&show_icons=true&theme=buefy&count_private=true" height="160" />
 </a>
 
 <h2> &nbsp; watch 🐍 eating all my contributions </h2>
-<img src="https://github.com/jenniaylis/jenniaylis/blob/output/github-contribution-grid-snake.gif" width="800"/>
+<img src="https://github.com/jenjei/jenjei/blob/output/github-contribution-grid-snake.gif" width="800"/>
 
 <h2> :star: &nbsp;some tools I have used and learned :star: </h2>
 <p align="left">
