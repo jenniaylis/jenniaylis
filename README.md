@@ -8,7 +8,7 @@
 </a>
 
 <h2> &nbsp; watch 🐍 eating all my contributions </h2>
-<img src="https://github.com/jenniaylis/jenniaylis/blob/output/github-contribution-grid-snake.gif" width="800"/>
+<img src="https://github.com/jenjei/jenjei/blob/output/github-contribution-grid-snake.gif" width="800"/>
 
 <h2> :star: &nbsp;some tools I have used and learned :star: </h2>
 <p align="left">
