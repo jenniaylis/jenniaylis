@@ -1,11 +1,11 @@
 # Hello world, I'm Jenni 👋
 
+<div>
 <a href="https://github.com/jenniaylis">
   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jenjei&layout=compact&theme=buefy" height="160" />
 </a>
-<a href="https://github.com/jenniaylis">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=jenjei&show_icons=true&theme=buefy&count_private=true" height="160" />
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jenjei&theme=buefy" height="160" align="center"></img>
+</div
 
 <h2> &nbsp; watch 🐍 eating all my contributions </h2>
 <img src="https://github.com/jenjei/jenjei/blob/output/github-contribution-grid-snake.gif" width="800"/>
