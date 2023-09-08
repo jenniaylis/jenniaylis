@@ -7,9 +7,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jenjei&theme=buefy" height="160" align="center"></img>
 </div>
 
-<h2> watch 🐍 eating all my contributions </h2>
-<img src="https://github.com/jenjei/jenjei/blob/output/github-contribution-grid-snake.gif" width="800"/>
-
 <h2> :star: &nbsp;some tools I have used and learned :star: </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" title="Visual Studio Code" width="45" height="45"/>
